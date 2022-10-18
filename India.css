@@ -1,0 +1,23 @@
+h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+
+}
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+
+}
+h2{
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .wowo{
+background-color: black;
+
+  }
